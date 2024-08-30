@@ -71,7 +71,7 @@ def main():
     result_image = inpaint_face(pipe, prompt, target_image_pil, mask_pil)
 
     # Save result
-    save_image(result_image, "output_image.png")
+    save_image(result_image, "output.jpg")
 
 if __name__ == "__main__":
     main()
