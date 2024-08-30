@@ -71,7 +71,7 @@ Run the script to perform the face swap:
 python face_swap.py
 ```
 
-Make sure the paths to the source and target images are correctly specified in the script. The resulting image will be saved as `output_image.png` in the project directory.
+Make sure the paths to the source and target images are correctly specified in the script. The resulting image will be saved as `output.jpg` in the project directory.
 
 ## Acknowledgements
 
