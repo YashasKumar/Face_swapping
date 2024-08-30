@@ -51,8 +51,8 @@ def main():
     pipe = load_model()
     
     # Load images
-    source_image_path = "D:\\YASHAS\\Projects\\Face_swap\\Screenshot 2024-08-29 123524.jpg"  # Path to your source image
-    target_image_path = "D:\\YASHAS\\Projects\\Face_swap\\Screenshot 2024-08-29 123457.jpg"  # Path to your target image
+    source_image_path = "D:\\YASHAS\\Projects\\Face_swap\\image2.jpg"  # Path to your source image
+    target_image_path = "D:\\YASHAS\\Projects\\Face_swap\\image1.jpg"  # Path to your target image
 
     source_image = load_image(source_image_path)
     target_image = load_image(target_image_path)
